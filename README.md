@@ -6,11 +6,12 @@ Instead of cluttering project repositories (`yashiro-miko`, `prolepsis`, `kimish
 
 ## Structure
 
-* **`observability/`** -> CLICK ME
+* **`distributes-systems`** -> [CLICK ME](https://github.com/shawnfrost25/concepts/tree/main/distributed-systems)
+* **`observability/`** -> [CLICK ME](https://github.com/shawnfrost25/concepts/tree/main/observability)
 * **`messaging/`** -> CLICK ME
 * **`policy-engines/`** -> CLICK ME
-* **`background-jobs/`** -> CLICK ME
-* **`cloud-iam/`** -> CLICK ME
+* **`background-jobs/`** -> [CLICK ME](https://github.com/shawnfrost25/concepts/tree/main/background-jobs)
+* **`cloud-iam/`** -> [CLICK ME](https://github.com/shawnfrost25/concepts/tree/main/cloud-iam)
 
 ---
 
