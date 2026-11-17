@@ -165,3 +165,8 @@ func LoggerSetup(ctx context.Context) (*log.LoggerProvider, error) {
 
 ## What I Still Don't Understand
 //
+
+## Documentation Sources
+* **[Grafana Configuration File](https://grafana.com/docs/grafana/latest/datasources/loki/configure/)**
+* **[Open Telemetry Logging Setup](https://opentelemetry.io/docs/languages/go/instrumentation/#logs-sdk)**
+* **[Open Telemetry Trace Setup](https://opentelemetry.io/docs/languages/go/instrumentation/#getting-a-tracer)**

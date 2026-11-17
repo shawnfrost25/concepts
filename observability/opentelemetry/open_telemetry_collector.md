@@ -85,3 +85,11 @@ The Collector does not decide whether data is a log or a trace based on the expo
 
 ## What I Still Don't Understand
 //
+
+## Documentation Sources
+* **[OTel Collector Config File Format](https://opentelemetry.io/docs/collector/configuration/)**
+* **[OTel Batch Processor](https://github.com/open-telemetry/opentelemetry-collector/blob/main/processor/batchprocessor/README.md)**
+* **[OTel Memory Limiter Processor](https://github.com/open-telemetry/opentelemetry-collector/blob/main/processor/memorylimiterprocessor/README.md)**
+* **[OTel Exporter Naming](https://github.com/open-telemetry/opentelemetry-collector/blob/main/exporter/README.md)**
+* **[OTel Exporter Settings](https://github.com/open-telemetry/opentelemetry-collector/blob/main/exporter/otlphttpexporter/README.md)**
+* **[OTel Service Pipelines](https://github.com/open-telemetry/opentelemetry-collector/blob/main/connector/README.md)**
